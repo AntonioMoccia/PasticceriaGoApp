@@ -1,0 +1,6 @@
+@Pasticceria_HostAddress = http://localhost:5000
+
+GET {{Pasticceria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
