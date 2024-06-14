@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pasticceria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765e9102badd376229e8b426f2e67f45345f4fee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d0da6fe9376803452bc7f42bf29681f8a421923")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pasticceria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pasticceria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -47,7 +47,7 @@ function AdminPage() {
           dolci.length == 0 ? (
             <h1>Non ci sonno dolci inseriti</h1>
           ) : (
-            <div className=' flex justify-center w-screen '>
+            <div className=' flex justify-center w-full '>
               <div className=' gap-4 grid grid-cols-4 w-[80%] '>
                 {
                   dolci.map(dolce => {
