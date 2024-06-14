@@ -7,15 +7,18 @@ export default defineConfig({
   server: {
     proxy:{
       '/api':{
-        target: 'http://localhost:5000',
+        target: `http://backend:5000`,
         changeOrigin: true,
         configure: () => {
-          // proxy will be an instance of 'http-proxy'
+          
         },
       }
     },
     fs: {
       cachedChecks: false
-    }
+    },
+    host: true, 
+    strictPort: true,
+    port: 5173
   }
 })

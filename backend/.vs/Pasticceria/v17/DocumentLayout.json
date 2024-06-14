@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|c:\\users\\antonio.moccia\\desktop\\csharp\\pasticceria\\backend\\pasticceria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|solutionrelative:pasticceria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|c:\\users\\antonio.moccia\\desktop\\csharp\\pasticceria\\backend\\pasticceria\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|solutionrelative:pasticceria\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|c:\\users\\antonio.moccia\\desktop\\csharp\\pasticceria\\backend\\pasticceria\\controllers\\dolcicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|solutionrelative:pasticceria\\controllers\\dolcicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|c:\\users\\antonio.moccia\\desktop\\csharp\\pasticceria\\backend\\pasticceria\\models\\dolci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|solutionrelative:pasticceria\\models\\dolci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|c:\\users\\antonio.moccia\\desktop\\csharp\\pasticceria\\backend\\pasticceria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DDB48E6-C53B-4493-A647-CFD18C30CAFE}|Pasticceria\\Pasticceria.csproj|solutionrelative:pasticceria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +34,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Dockerfile",
+              "RelativeDocumentMoniker": "Pasticceria\\Dockerfile",
+              "ToolTip": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Dockerfile",
+              "RelativeToolTip": "Pasticceria\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T13:43:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Program.cs",
               "RelativeDocumentMoniker": "Pasticceria\\Program.cs",
               "ToolTip": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Program.cs",
               "RelativeToolTip": "Pasticceria\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T19:49:51.999Z"
+              "WhenOpened": "2024-06-12T19:49:51.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DolciController.cs",
               "DocumentMoniker": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Controllers\\DolciController.cs",
               "RelativeDocumentMoniker": "Pasticceria\\Controllers\\DolciController.cs",
               "ToolTip": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Controllers\\DolciController.cs",
               "RelativeToolTip": "Pasticceria\\Controllers\\DolciController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADgAAAANAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAD0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T18:15:34.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Pasticceria\\Data\\ApplicationDbContext.cs",
@@ -67,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dolci.cs",
               "DocumentMoniker": "C:\\Users\\antonio.moccia\\Desktop\\CSharp\\Pasticceria\\backend\\Pasticceria\\Models\\Dolci.cs",
               "RelativeDocumentMoniker": "Pasticceria\\Models\\Dolci.cs",

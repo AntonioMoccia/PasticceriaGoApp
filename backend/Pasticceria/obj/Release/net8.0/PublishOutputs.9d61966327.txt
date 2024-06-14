@@ -1,0 +1,16 @@
+C:\publish\Pasticceria.exe
+C:\publish\appsettings.Development.json
+C:\publish\appsettings.json
+C:\publish\Pasticceria.dll
+C:\publish\Pasticceria.runtimeconfig.json
+C:\publish\Pasticceria.pdb
+C:\publish\Microsoft.EntityFrameworkCore.dll
+C:\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\publish\Microsoft.OpenApi.dll
+C:\publish\Npgsql.dll
+C:\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\publish\Pasticceria.deps.json
